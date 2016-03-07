@@ -26,5 +26,13 @@
     {"id": 6,
     "phrase": "Quem vai é o coelho!",
     "meaning": "Eu não farei isso de jeito nenhum",
-    "key-words": ["problema", "atividades"]}
+    "key-words": ["problema", "atividades"]},
+    {"id": 7,
+    "phrase": "Tu tá a capa do Batman",
+    "meaning": "Você está magro",
+    "key-words": ["magro", "emagrecer"]},
+    {"id": 8,
+    "phrase": "Tu tá o chassi do mosquito",
+    "meaning": "Você está magro",
+    "key-words": ["magro", "emagrecer"]},
 ]
