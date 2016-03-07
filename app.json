@@ -1,0 +1,14 @@
+{
+  "name": "falabaiana",
+  "description": "Expressões populares que só a Ana usa",
+  "keywords": [
+    "baianes",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/falabaiana/",
+  "website": "https://github.com/anapaulagomes/falabaiana",
+  "repository": "https://github.com/anapaulagomes/falabaiana"
+}
